@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php 
 function connection(){
     $server_name = "localhost";
@@ -63,3 +64,9 @@ if(isset($_POST['btn_submit'])){
     </form>
 </body>
 </html>
+=======
+<?php
+    echo "my name is jescmar malon<br>";
+    echo "i lived in adorable jeminez";
+?>
+>>>>>>> 7e95d34cfda697a15ed98dc2b9edf8addaff0204
